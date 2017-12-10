@@ -8,9 +8,9 @@ public class RectangleDemo
         System.out.println(box2.getX());
         box.draw();*/
 
-        Rectangle box3 = new Rectangle(45,90,60,90);
-        box3.grow(20,20);
-        System.out.println(box3.getX());
-        System.out.println(box3.getWidth());
+        Rectangle box4 = new Rectangle(45,90,60,90);
+        box4.grow(20,20);
+        System.out.println(box4.getX());
+        System.out.println(box4.getWidth());
     }
 }
