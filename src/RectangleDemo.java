@@ -11,6 +11,6 @@ public class RectangleDemo
         Rectangle box4 = new Rectangle(45,90,60,90);
         box4.grow(20,20);
         System.out.println(box4.getX());
-        //System.out.println(box4.getWidth());
+        System.out.println(box4.getWidth());
     }
 }
