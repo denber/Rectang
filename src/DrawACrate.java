@@ -18,6 +18,11 @@ public class DrawACrate
         Line line5 = new Line (120,70,150,50);
         line5.draw();
 
+        Text texto = new Text(20,30,"TOP SECRET");
+        texto.draw();
+
+
+
 
     }
 }
